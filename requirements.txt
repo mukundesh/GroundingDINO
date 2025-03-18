@@ -1,5 +1,6 @@
 torch==2.4
 torchvision
+huggingface_hub==0.21.4
 transformers
 addict
 yapf
